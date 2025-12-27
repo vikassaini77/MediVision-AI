@@ -1,0 +1,29 @@
+# Environment files
+.env
+.env.*
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pth
+
+# Node
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Git
+.git
+.gitignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
