@@ -2,8 +2,6 @@ services:
   - type: web
     name: medvision-ai-backend
     env: docker
-    region: ohio
-    plan: free
     healthCheckPath: /docs
     envVars:
       - key: PORT
