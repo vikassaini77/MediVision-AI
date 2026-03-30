@@ -1,0 +1,7 @@
+api/
+backend/
+model/
+data/
+venv/
+*.pth
+requirements.txt
