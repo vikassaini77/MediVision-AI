@@ -69,9 +69,9 @@ sympy==1.13.1
 tenacity==9.1.2
 threadpoolctl==3.6.0
 toml==0.10.2
-torch==2.6.0+cu124
-torchaudio==2.6.0+cu124
-torchvision==0.21.0+cu124
+torch
+torchaudio
+torchvision
 tornado==6.5.4
 tqdm==4.67.1
 typing-inspection==0.4.2
